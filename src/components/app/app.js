@@ -13,8 +13,8 @@ export default class App extends Component{
             data : [
                 {label:'Going to learn React',important:false, like: false, id :1},
                 {label:'Let`s start',important:false, like: false, id:2},
-                {label:'React is better than JS',important:false, like: false, id:3},
-                {label:'React is the best',important:false, like: false, id:4},
+                {label:'Find information',important:false, like: false, id:3},
+                {label:'Create first app',important:false, like: false, id:4},
             ],
             searchText: '',
             filter: 'all'
